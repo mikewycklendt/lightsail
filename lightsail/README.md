@@ -40,3 +40,7 @@ Configured WSGI to point to var/www/html/catalog/catalog/application.wsgi
 Configured PostgreSQL to listen to my IP Address for it's databases
 
 Set up Oauth2 to work in the google API console
+
+## 3RD PARTY RESOURCES
+
+None
